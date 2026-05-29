@@ -150,4 +150,4 @@ Hệ thống được thiết kế theo mô hình phân tầng:
 ## 🎥 Demo
 
 Video demo sản phẩm:
-👉 [https://www.youtube.com/watch?v=9HbF48BxAqI]([https://www.youtube.com/watch?v=9HbF48BxAqI](https://www.youtube.com/watch?v=n4Pif6qnuYY))
+👉 https://www.youtube.com/watch?v=n4Pif6qnuYY
